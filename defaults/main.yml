@@ -1,3 +1,4 @@
 ---
 hostname_fqdn: "{{inventory_hostname}}"
 hostname_name: "{{inventory_hostname_short}}"
+hostname_ip: "{{hostname_default_ip}}"
